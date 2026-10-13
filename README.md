@@ -73,3 +73,15 @@ export default defineConfig([
 ])
 
 ```
+
+Install the Project
+
+```
+git clone https://github.com/sploitspace-Student/BasicLearn-React.git
+```
+
+run "npm run dev" to run the project on the website
+
+```
+npm run dev
+```
